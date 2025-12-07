@@ -27,6 +27,7 @@ $targetFile->putContents(implode("\r\n", $targetLines)."\r\n");
 function filterLines(FileInfo $file) : array
 {
     $lines = array_map('trim', FileHelper::readLines($file));
+    $lines = array_map('strtolower', $lines);
 
     return array_filter($lines, function ($line) {
         return !str_starts_with(trim($line), '#') && trim($line) !== '';
