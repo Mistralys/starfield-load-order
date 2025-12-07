@@ -1,0 +1,1473 @@
+{
+    "game": "starfield",
+    "databaseDate": "2025-12-07T12:12:33.000000 UTC",
+    "exportDate": "2025-12-07T12:12:41.932590 UTC",
+    "categories": {
+        "Characters": [
+            "Graphics - Various Crew",
+            "Graphics - Various Crew - Amazon Crew"
+        ],
+        "Clothing": [
+            "Apparel - Buy Swimsuits",
+            "Apparel - Eit Clothiers Plus (Vanilla body)",
+            "Apparel - Fragile suit",
+            "Apparel - Green Saree",
+            "Apparel - KZ Aggregation of Scraps AIO",
+            "Apparel - KZ Bounty Hunter",
+            "Apparel - KZ Constellation",
+            "Apparel - KZ Corsairs",
+            "Apparel - KZ Ecliptic",
+            "Apparel - KZ Mantis 2.0",
+            "Apparel - KZ Mercenary",
+            "Apparel - KZ Tachyonic Core Arsenal",
+            "Apparel - KZ Techno-Corporate Repository",
+            "Apparel - Nanosuit - Female (Standalone)",
+            "Apparel - Nanosuit - Female - White Recolor",
+            "Apparel - Ombre Hair Colours",
+            "Apparel - ZoNE79 ClothingPack - Standalone (Vanilla)",
+            "YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)"
+        ],
+        "Gameplay": [
+            "Building - Outposts - Shipbuilder Unlocked",
+            "Crafting - Armor and Clothing Crafting",
+            "Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction",
+            "Gameplay - Choose your companion",
+            "Gameplay - Easy Digipick",
+            "Gameplay - Faster Waiting and Sleeping",
+            "Gameplay - Fast Travel To Unknown",
+            "Gameplay - Health Increase After Level 100",
+            "Gameplay - Increased Bounties",
+            "Gameplay - Less Heinous Leveling XP Curve",
+            "Gameplay - Minimum Enemy Level",
+            "Gameplay - More Rewarding Main Quests",
+            "Gameplay - Perk Up - Richer Galaxy",
+            "Gameplay - Polyamory",
+            "Gameplay - Richer Merchants",
+            "Gameplay - Road To The Stars ",
+            "Gameplay - Ships - More Ownable Ships",
+            "Gameplay - Ships - No Reactor Class Requirement",
+            "Gameplay - Ships - Power Allocation Fix",
+            "Gameplay - Ships - Seizure Of Ships",
+            "Gameplay - Ships - Sit to Add Ship to Fleet",
+            "Gameplay - Smarter Spacesuit Auto-Hide",
+            "Patches - Starfield Community Patch"
+        ],
+        "Items": [
+            "Crafting - Capital Planet Desktop Globes",
+            "Crafting - Galactic Junk Recycler (Creation variant does not work)",
+            "Crafting - Grogu Plushie",
+            "Renaming - Marked Landmark Books"
+        ],
+        "Miscellaneous": [
+            "Patches - Baka Achievement Enabler",
+            "Patches - Console Output To File",
+            "Patches - Trackers Alliance Fix",
+            "YY - Patches - Baka Quick Full Saves (Takes too much disk space)"
+        ],
+        "Modders Resources": [
+            "Patches - Address Library for SFSE Plugins"
+        ],
+        "Settlements": [
+            "Buiding - Better Living - More buildable decorations",
+            "Building - Better Buildable Walls and Doors with Filler Lights",
+            "Building - More Buildable Mission Boards",
+            "Building - Outposts - Build Area x2",
+            "Building - Outposts - Pegasus Botanics and Utilities",
+            "Building - Showers",
+            "Building - Vending Machines",
+            "Patches - Unlimited Mannequins"
+        ],
+        "Ships": [
+            "Building - Ships - Builder Configurator",
+            "Building - Ships - Builder Configurator - Falkland Patch",
+            "Building - Ships - Builder Configurator - Shattered Space Patch",
+            "Building - Ships - Furnish Your Fleet Furniture",
+            "Building - Ships - Stroud Premium Edition",
+            "Building - Ships - TN's Mods - All In One",
+            "Building - Ships - TN's Mods - Falkland Systems Patch",
+            "Building - Ships - TN's Mods - Stroud Patch",
+            "Gameplay - Ships - Immersive Landing Ramps",
+            "Gameplay - Ships - Landing Bay Cargo Access",
+            "UI - Better Ship Part Flips ",
+            "UI - Better Ship Part Snaps",
+            "UI - Ship Builder Categories",
+            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )"
+        ],
+        "User Interface": [
+            "Graphics - HUD - Show Power Name",
+            "Graphics - Show Location Names",
+            "Graphics - Show Star Names",
+            "Patches - CharGenMenu",
+            "Renaming - Snow Globes - Eli",
+            "UI - StarUI HUD",
+            "UI - StarUI Inventory",
+            "UI - StarUI Outpost",
+            "UI - StarUI Ship Builder",
+            "UI - StarUI Workbench",
+            "YY - Graphics - HUD - Enhanced Player Boostbar (Does not do much)",
+            "YY - Renaming - Clutter Description Overhaul - CDO (Needs RTFP update)"
+        ],
+        "Utilities": [
+            "Patches - Starfield Script Extender",
+            "UI - StarUI Configurator",
+            "YY - Patches - Real Time Form Patcher",
+            "YY UI - Longer Ship Name (Deprecated in SFSE)"
+        ],
+        "Visuals": [
+            "Gameplay - Ships - More Immersive Landings And Takeoffs",
+            "Graphics - Crowd NPC eye Ambient occlusion Fix",
+            "Graphics - Docking Animation Color Correction LUT",
+            "Graphics - Effect Textures Enhanced - EXE",
+            "Graphics - Enhanced Color Grading and Black Levels - SGS's LUTs - Strength 50",
+            "Graphics - Enhanced Female Skin - Starqueen",
+            "Graphics - Female Eyelashes HD",
+            "Graphics - Furniture Redone - 2K",
+            "Graphics - Hello Kitty Sanitation Robot",
+            "Graphics - Precious Metal Credsticks",
+            "Graphics - SavrenX - Cave and Ice",
+            "Graphics - SavrenX - Cave Wetness",
+            "Graphics - SavrenX - Crisp Flora",
+            "Graphics - SavrenX - Hair 1K",
+            "Graphics - SavrenX - HD Crowd Optimized",
+            "Graphics - SavrenX - Starfield HD NPC",
+            "Graphics - SavrenX - Stone",
+            "Graphics - Sexy Real Magazines",
+            "Graphics - Starfield HD Reworked Project 1.0",
+            "Graphics - TigerMagazinesVol2",
+            "Patches - Galactic Mesh Fixes "
+        ],
+        "Weapons": [
+            "Skins - Constellation LaserCutter - Textures",
+            "Skins - Fallout LaserCutter - Textures",
+            "Skins - Ryujin CombaTech - Textures -",
+            "Skins - Wasp Unlocked"
+        ]
+    },
+    "tags": {
+        "BAT": [
+            "Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction"
+        ],
+        "Body": [
+            "Graphics - Enhanced Female Skin - Starqueen",
+            "Graphics - Female Eyelashes HD"
+        ],
+        "Core": [
+            "Gameplay - Fast Travel To Unknown",
+            "Patches - Address Library for SFSE Plugins",
+            "Patches - Starfield Script Extender"
+        ],
+        "Core2": [
+            "Gameplay - Easy Digipick",
+            "Gameplay - Less Heinous Leveling XP Curve",
+            "Gameplay - Ships - No Reactor Class Requirement",
+            "Patches - CharGenMenu"
+        ],
+        "INI": [
+            "Gameplay - Perk Up - Richer Galaxy"
+        ],
+        "Installer": [
+            "Gameplay - Richer Merchants",
+            "Graphics - Enhanced Female Skin - Starqueen",
+            "Graphics - Show Star Names"
+        ],
+        "ItemCodes": [
+            "Apparel - Nanosuit - Female (Standalone)",
+            "Crafting - Grogu Plushie"
+        ],
+        "NEW": [
+            "Apparel - KZ Techno-Corporate Repository",
+            "Building - Outposts - Build Area x2",
+            "Building - Outposts - Pegasus Botanics and Utilities",
+            "Building - Outposts - Shipbuilder Unlocked",
+            "Building - Ships - Builder Configurator",
+            "Building - Ships - Builder Configurator - Falkland Patch",
+            "Building - Ships - Builder Configurator - Shattered Space Patch",
+            "Building - Ships - Stroud Premium Edition",
+            "Building - Ships - TN's Mods - All In One",
+            "Building - Ships - TN's Mods - Falkland Systems Patch",
+            "Building - Ships - TN's Mods - Stroud Patch",
+            "Building - Showers",
+            "Gameplay - Ships - Immersive Landing Ramps",
+            "YY UI - Longer Ship Name (Deprecated in SFSE)"
+        ],
+        "NPC": [
+            "Apparel - KZ Bounty Hunter",
+            "Apparel - KZ Constellation",
+            "Apparel - KZ Corsairs",
+            "Apparel - KZ Ecliptic",
+            "Apparel - KZ Mercenary"
+        ],
+        "Purchasable": [
+            "Crafting - Capital Planet Desktop Globes"
+        ],
+        "Replacer": [
+            "Apparel - KZ Bounty Hunter",
+            "Apparel - KZ Constellation",
+            "Apparel - KZ Corsairs",
+            "Apparel - KZ Ecliptic",
+            "Apparel - KZ Mercenary"
+        ],
+        "RTFP": [
+            "YY - Patches - Real Time Form Patcher",
+            "YY - Renaming - Clutter Description Overhaul - CDO (Needs RTFP update)"
+        ],
+        "SBC": [
+            "Building - Ships - Builder Configurator",
+            "Building - Ships - Builder Configurator - Falkland Patch",
+            "Building - Ships - Builder Configurator - Shattered Space Patch"
+        ],
+        "SFSE": [
+            "Building - Outposts - Shipbuilder Unlocked",
+            "Gameplay - Fast Travel To Unknown",
+            "Gameplay - Less Heinous Leveling XP Curve",
+            "Gameplay - Ships - No Reactor Class Requirement",
+            "Patches - Address Library for SFSE Plugins",
+            "Patches - Baka Achievement Enabler",
+            "Patches - CharGenMenu",
+            "Patches - Console Output To File",
+            "Patches - Starfield Script Extender",
+            "YY - Patches - Baka Quick Full Saves (Takes too much disk space)",
+            "YY UI - Longer Ship Name (Deprecated in SFSE)"
+        ],
+        "TNSAIO": [
+            "Building - Ships - TN's Mods - All In One",
+            "Building - Ships - TN's Mods - Falkland Systems Patch",
+            "Building - Ships - TN's Mods - Stroud Patch",
+            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )"
+        ],
+        "Unused": [
+            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )"
+        ],
+        "Vanilla": [
+            "Apparel - Buy Swimsuits",
+            "Apparel - Eit Clothiers Plus (Vanilla body)",
+            "Apparel - Fragile suit",
+            "Apparel - Green Saree",
+            "Apparel - KZ Aggregation of Scraps AIO",
+            "Apparel - KZ Mantis 2.0",
+            "Apparel - Nanosuit - Female (Standalone)",
+            "Apparel - Nanosuit - Female - White Recolor",
+            "Apparel - Ombre Hair Colours",
+            "Apparel - ZoNE79 ClothingPack - Standalone (Vanilla)",
+            "Buiding - Better Living - More buildable decorations",
+            "Building - Better Buildable Walls and Doors with Filler Lights",
+            "Building - Fish Tank Outpost Decoration",
+            "Building - More Buildable Mission Boards",
+            "Building - Outposts - Build Area x2",
+            "Building - Ships - Builder Configurator",
+            "Building - Ships - Furnish Your Fleet Furniture",
+            "Building - Ships - Stroud Premium Edition",
+            "Building - Vending Machines",
+            "Crafting - Armor and Clothing Crafting",
+            "Crafting - Capital Planet Desktop Globes",
+            "Crafting - Grogu Plushie",
+            "Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction",
+            "Gameplay - Choose your companion",
+            "Gameplay - Easy Digipick",
+            "Gameplay - Faster Waiting and Sleeping",
+            "Gameplay - Health Increase After Level 100",
+            "Gameplay - Increased Bounties",
+            "Gameplay - Minimum Enemy Level",
+            "Gameplay - More Rewarding Main Quests",
+            "Gameplay - Polyamory",
+            "Gameplay - Richer Merchants",
+            "Gameplay - Ships - More Ownable Ships",
+            "Gameplay - Ships - Power Allocation Fix",
+            "Gameplay - Ships - Seizure Of Ships",
+            "Gameplay - Ships - Sit to Add Ship to Fleet",
+            "Graphics - Crowd NPC eye Ambient occlusion Fix",
+            "Graphics - Docking Animation Color Correction LUT",
+            "Graphics - Effect Textures Enhanced - EXE",
+            "Graphics - Enhanced Color Grading and Black Levels - SGS's LUTs - Strength 50",
+            "Graphics - Enhanced Female Skin - Starqueen",
+            "Graphics - Female Eyelashes HD",
+            "Graphics - Furniture Redone - 2K",
+            "Graphics - Hello Kitty Sanitation Robot",
+            "Graphics - Precious Metal Credsticks",
+            "Graphics - SavrenX - Cave and Ice",
+            "Graphics - SavrenX - Cave Wetness",
+            "Graphics - SavrenX - Crisp Flora",
+            "Graphics - SavrenX - Hair 1K",
+            "Graphics - SavrenX - HD Crowd Optimized",
+            "Graphics - SavrenX - Starfield HD NPC",
+            "Graphics - SavrenX - Stone",
+            "Graphics - Sexy Real Magazines",
+            "Graphics - Show Location Names",
+            "Graphics - Show Star Names",
+            "Graphics - Starfield HD Reworked Project 1.0",
+            "Graphics - TigerMagazinesVol2",
+            "Graphics - Various Crew",
+            "Graphics - Various Crew - Amazon Crew",
+            "Patches - Starfield Community Patch",
+            "Patches - Trackers Alliance Fix",
+            "Renaming - Marked Landmark Books",
+            "Renaming - Snow Globes - Eli",
+            "YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)",
+            "YY - Graphics - HUD - Enhanced Player Boostbar (Does not do much)",
+            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )"
+        ],
+        "WaitForUpdate": [
+            "YY - Patches - Real Time Form Patcher"
+        ],
+        "WSEP": [
+            "Skins - Constellation LaserCutter - Textures",
+            "Skins - Constellation LaserCutter Immersive",
+            "Skins - Fallout LaserCutter - Textures",
+            "Skins - Ryujin CombaTech - Textures -",
+            "Skins - Ryujn CombaTech Immersive",
+            "Skins - Wasp Unlocked",
+            "Skins - Weapon Skin Expansion"
+        ]
+    },
+    "mods": {
+        "Apparel - Buy Swimsuits": {
+            "taggedName": "Apparel - Buy Swimsuits [Vanilla]",
+            "officialName": "Buy Swimsuits",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7605/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Apparel - Eit Clothiers Plus (Vanilla body)": {
+            "taggedName": "Apparel - Eit Clothiers Plus (Vanilla body) [Vanilla]",
+            "officialName": "Eit Clothiers Plus - Clothes jackets belts gloves glasses necklace",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8473/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Apparel - Fragile suit": {
+            "taggedName": "Apparel - Fragile suit [Vanilla]",
+            "officialName": "Fragile suit - Standalone",
+            "homepage": "https://www.nexusmods.com/starfield/mods/12856/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Apparel - Green Saree": {
+            "taggedName": "Apparel - Green Saree [Vanilla]",
+            "officialName": "Yet More New Sarees",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8681/",
+            "category": "Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Apparel - KZ Aggregation of Scraps AIO": {
+            "taggedName": "Apparel - KZ Aggregation of Scraps AIO [Vanilla]",
+            "officialName": "KZ Aggregation of Scraps",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11471/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Apparel - KZ Bounty Hunter": {
+            "taggedName": "Apparel - KZ Bounty Hunter [NPC] [Replacer]",
+            "officialName": "KZ Aggregation of Scraps",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11471/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "NPC",
+                "Replacer"
+            ]
+        },
+        "Apparel - KZ Constellation": {
+            "taggedName": "Apparel - KZ Constellation [NPC] [Replacer]",
+            "officialName": "KZ Aggregation of Scraps",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11471/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "NPC",
+                "Replacer"
+            ]
+        },
+        "Apparel - KZ Corsairs": {
+            "taggedName": "Apparel - KZ Corsairs [NPC] [Replacer]",
+            "officialName": "KZ Aggregation of Scraps",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11471/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "NPC",
+                "Replacer"
+            ]
+        },
+        "Apparel - KZ Ecliptic": {
+            "taggedName": "Apparel - KZ Ecliptic [NPC] [Replacer]",
+            "officialName": "KZ Aggregation of Scraps",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11471/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "NPC",
+                "Replacer"
+            ]
+        },
+        "Apparel - KZ Mantis 2.0": {
+            "taggedName": "Apparel - KZ Mantis 2.0 [Vanilla]",
+            "officialName": "KZ Mantis 2.0",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8814/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Apparel - KZ Mercenary": {
+            "taggedName": "Apparel - KZ Mercenary [NPC] [Replacer]",
+            "officialName": "KZ Aggregation of Scraps",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11471/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "NPC",
+                "Replacer"
+            ]
+        },
+        "Apparel - KZ Tachyonic Core Arsenal": {
+            "taggedName": "Apparel - KZ Tachyonic Core Arsenal",
+            "officialName": "KZ Tachyonic Core Arsenal",
+            "homepage": "https://www.nexusmods.com/starfield/mods/13032/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "Apparel - KZ Techno-Corporate Repository": {
+            "taggedName": "Apparel - KZ Techno-Corporate Repository [NEW]",
+            "officialName": "KZ Techno-Corporate Repository",
+            "homepage": "https://www.nexusmods.com/starfield/mods/13949/",
+            "category": "Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "NEW"
+            ]
+        },
+        "Apparel - Nanosuit - Female (Standalone)": {
+            "taggedName": "Apparel - Nanosuit - Female (Standalone) [Vanilla] [ItemCodes]",
+            "officialName": "Female Nanosuit",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7161/",
+            "category": "Clothing",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla",
+                "ItemCodes"
+            ]
+        },
+        "Apparel - Nanosuit - Female - White Recolor": {
+            "taggedName": "Apparel - Nanosuit - Female - White Recolor [Vanilla]",
+            "officialName": "White female nanosuit",
+            "homepage": "https://www.nexusmods.com/starfield/mods/10129/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Apparel - Ombre Hair Colours": {
+            "taggedName": "Apparel - Ombre Hair Colours [Vanilla]",
+            "officialName": "More Hair Colors",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8786/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Apparel - ZoNE79 ClothingPack - Standalone (Vanilla)": {
+            "taggedName": "Apparel - ZoNE79 ClothingPack - Standalone (Vanilla) [Vanilla]",
+            "officialName": "ZoNE79 Clothing Pack",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11255/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Buiding - Better Living - More buildable decorations": {
+            "taggedName": "Buiding - Better Living - More buildable decorations [Vanilla]",
+            "officialName": "Better Living - Outpost Decor",
+            "homepage": "https://www.nexusmods.com/starfield/mods/10290/",
+            "category": "Settlements",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Building - Better Buildable Walls and Doors with Filler Lights": {
+            "taggedName": "Building - Better Buildable Walls and Doors with Filler Lights [Vanilla]",
+            "officialName": "Better Buildable Walls and Doors",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11100/",
+            "category": "Settlements",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Building - More Buildable Mission Boards": {
+            "taggedName": "Building - More Buildable Mission Boards [Vanilla]",
+            "officialName": "More Buildable Mission Boards",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9634/",
+            "category": "Settlements",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Building - Outposts - Build Area x2": {
+            "taggedName": "Building - Outposts - Build Area x2 [NEW] [Vanilla]",
+            "officialName": "Increase Outpost Build Area",
+            "homepage": "https://www.nexusmods.com/starfield/mods/15246/",
+            "category": "Settlements",
+            "endorsed": "Undecided",
+            "tags": [
+                "NEW",
+                "Vanilla"
+            ]
+        },
+        "Building - Outposts - Pegasus Botanics and Utilities": {
+            "taggedName": "Building - Outposts - Pegasus Botanics and Utilities [NEW]",
+            "officialName": "Pegasus Outpost Botanics and Utilities",
+            "homepage": "https://www.nexusmods.com/starfield/mods/14680/",
+            "category": "Settlements",
+            "endorsed": "Undecided",
+            "tags": [
+                "NEW"
+            ]
+        },
+        "Building - Outposts - Shipbuilder Unlocked": {
+            "taggedName": "Building - Outposts - Shipbuilder Unlocked [SFSE] [NEW]",
+            "officialName": "Outpost Shipbuilder Unlocked ESM",
+            "homepage": "https://www.nexusmods.com/starfield/mods/5667/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": [
+                "SFSE",
+                "NEW"
+            ]
+        },
+        "Building - Ships - Builder Configurator": {
+            "taggedName": "Building - Ships - Builder Configurator [SBC] [Vanilla] [NEW]",
+            "officialName": "Ship Builder Configurator",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11077/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "SBC",
+                "Vanilla",
+                "NEW"
+            ]
+        },
+        "Building - Ships - Builder Configurator - Falkland Patch": {
+            "taggedName": "Building - Ships - Builder Configurator - Falkland Patch [SBC] [NEW]",
+            "officialName": "Ship Builder Configurator",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11077/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "SBC",
+                "NEW"
+            ]
+        },
+        "Building - Ships - Builder Configurator - Shattered Space Patch": {
+            "taggedName": "Building - Ships - Builder Configurator - Shattered Space Patch [SBC] [NEW]",
+            "officialName": "Ship Builder Configurator",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11077/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "SBC",
+                "NEW"
+            ]
+        },
+        "Building - Ships - Furnish Your Fleet Furniture": {
+            "taggedName": "Building - Ships - Furnish Your Fleet Furniture [Vanilla]",
+            "officialName": "Furnish Your Fleet",
+            "homepage": "https://www.nexusmods.com/starfield/mods/12202/",
+            "category": "Ships",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Building - Ships - Stroud Premium Edition": {
+            "taggedName": "Building - Ships - Stroud Premium Edition [Vanilla] [NEW]",
+            "officialName": "Stroud Premium Edition",
+            "homepage": "https://www.nexusmods.com/starfield/mods/12330/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla",
+                "NEW"
+            ]
+        },
+        "Building - Ships - TN's Mods - All In One": {
+            "taggedName": "Building - Ships - TN's Mods - All In One [TNSAIO] [NEW]",
+            "officialName": "TN's Ship Modifications All in One",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6376/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "TNSAIO",
+                "NEW"
+            ]
+        },
+        "Building - Ships - TN's Mods - Falkland Systems Patch": {
+            "taggedName": "Building - Ships - TN's Mods - Falkland Systems Patch [TNSAIO] [NEW]",
+            "officialName": "TN's Ship Modifications All in One",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6376/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "TNSAIO",
+                "NEW"
+            ]
+        },
+        "Building - Ships - TN's Mods - Stroud Patch": {
+            "taggedName": "Building - Ships - TN's Mods - Stroud Patch [TNSAIO] [NEW]",
+            "officialName": "Patch - SPE x TN's All In One",
+            "homepage": "https://www.nexusmods.com/starfield/mods/14610/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "TNSAIO",
+                "NEW"
+            ]
+        },
+        "Building - Showers": {
+            "taggedName": "Building - Showers [NEW]",
+            "officialName": "Outpost Showers",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8140/",
+            "category": "Settlements",
+            "endorsed": "Undecided",
+            "tags": [
+                "NEW"
+            ]
+        },
+        "Building - Vending Machines": {
+            "taggedName": "Building - Vending Machines [Vanilla]",
+            "officialName": "Outpost Vending Machines",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7872/",
+            "category": "Settlements",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Crafting - Armor and Clothing Crafting": {
+            "taggedName": "Crafting - Armor and Clothing Crafting [Vanilla]",
+            "officialName": "Starfield Extended - Armor and Clothing Crafting",
+            "homepage": "https://www.nexusmods.com/starfield/mods/5657/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Crafting - Capital Planet Desktop Globes": {
+            "taggedName": "Crafting - Capital Planet Desktop Globes [Purchasable] [Vanilla]",
+            "officialName": "Capital Planet Desktop Globes",
+            "homepage": "https://www.nexusmods.com/starfield/mods/10134/",
+            "category": "Items",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Purchasable",
+                "Vanilla"
+            ]
+        },
+        "Crafting - Galactic Junk Recycler (Creation variant does not work)": {
+            "taggedName": "Crafting - Galactic Junk Recycler (Creation variant does not work)",
+            "officialName": "Galactic Junk Recycler",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11101/",
+            "category": "Items",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "Crafting - Grogu Plushie": {
+            "taggedName": "Crafting - Grogu Plushie [Vanilla] [ItemCodes]",
+            "officialName": "Grogu Plushie Remade",
+            "homepage": "https://www.nexusmods.com/starfield/mods/10031/",
+            "category": "Items",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla",
+                "ItemCodes"
+            ]
+        },
+        "Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction": {
+            "taggedName": "Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction [BAT] [Vanilla]",
+            "officialName": "Better Sprint Costs",
+            "homepage": "https://www.nexusmods.com/starfield/mods/1234/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "BAT",
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Choose your companion": {
+            "taggedName": "Gameplay - Choose your companion [Vanilla]",
+            "officialName": "High Price to Pay - Choose your companion",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7870/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Easy Digipick": {
+            "taggedName": "Gameplay - Easy Digipick [Vanilla] [Core2]",
+            "officialName": "Easy Digipick (Lockpick)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/451/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla",
+                "Core2"
+            ]
+        },
+        "Gameplay - Faster Waiting and Sleeping": {
+            "taggedName": "Gameplay - Faster Waiting and Sleeping [Vanilla]",
+            "officialName": "QoL Faster Waiting and Sleeping",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9664/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Fast Travel To Unknown": {
+            "taggedName": "Gameplay - Fast Travel To Unknown [SFSE] [Core]",
+            "officialName": "Fast Travel To Unknown",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6663/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "SFSE",
+                "Core"
+            ]
+        },
+        "Gameplay - Health Increase After Level 100": {
+            "taggedName": "Gameplay - Health Increase After Level 100 [Vanilla]",
+            "officialName": "Gain Health After Level 100",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7375/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Increased Bounties": {
+            "taggedName": "Gameplay - Increased Bounties [Vanilla]",
+            "officialName": "More lore accurate bounties",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9641/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Less Heinous Leveling XP Curve": {
+            "taggedName": "Gameplay - Less Heinous Leveling XP Curve [SFSE] [Core2]",
+            "officialName": "Less Heinous Leveling XP Curve",
+            "homepage": "https://www.nexusmods.com/starfield/mods/2210/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "SFSE",
+                "Core2"
+            ]
+        },
+        "Gameplay - Minimum Enemy Level": {
+            "taggedName": "Gameplay - Minimum Enemy Level [Vanilla]",
+            "officialName": "Minimum Enemy Level",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9477/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - More Rewarding Main Quests": {
+            "taggedName": "Gameplay - More Rewarding Main Quests [Vanilla]",
+            "officialName": "More Rewarding Main Quests",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7880/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Perk Up - Richer Galaxy": {
+            "taggedName": "Gameplay - Perk Up - Richer Galaxy [INI]",
+            "officialName": "Perk Up - Richer Galaxy",
+            "homepage": "https://www.nexusmods.com/starfield/mods/1833/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": [
+                "INI"
+            ]
+        },
+        "Gameplay - Polyamory": {
+            "taggedName": "Gameplay - Polyamory [Vanilla]",
+            "officialName": "Polyamory - Remove single romance limit",
+            "homepage": "https://www.nexusmods.com/starfield/mods/10687/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Richer Merchants": {
+            "taggedName": "Gameplay - Richer Merchants [Installer] [Vanilla]",
+            "officialName": "Richer Merchants",
+            "homepage": "https://www.nexusmods.com/starfield/mods/1143/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Installer",
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Road To The Stars ": {
+            "taggedName": "Gameplay - Road To The Stars ",
+            "officialName": "Starfield - Road to the Stars (a Stargate Mod)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11518/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "Gameplay - Ships - Immersive Landing Ramps": {
+            "taggedName": "Gameplay - Ships - Immersive Landing Ramps [NEW]",
+            "officialName": "Immersive Landing Ramps",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8093/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "NEW"
+            ]
+        },
+        "Gameplay - Ships - Landing Bay Cargo Access": {
+            "taggedName": "Gameplay - Ships - Landing Bay Cargo Access",
+            "officialName": "Landing Bay Cargo Access",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11972/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "Gameplay - Ships - More Immersive Landings And Takeoffs": {
+            "taggedName": "Gameplay - Ships - More Immersive Landings And Takeoffs",
+            "officialName": "More Immersive Landings And Takeoffs",
+            "homepage": "https://www.nexusmods.com/starfield/mods/2835/",
+            "category": "Visuals",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "Gameplay - Ships - More Ownable Ships": {
+            "taggedName": "Gameplay - Ships - More Ownable Ships [Vanilla]",
+            "officialName": "More Ownable Ships",
+            "homepage": "https://www.nexusmods.com/starfield/mods/791/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Ships - No Reactor Class Requirement": {
+            "taggedName": "Gameplay - Ships - No Reactor Class Requirement [SFSE] [Core2]",
+            "officialName": "No Reactor Class Requirement",
+            "homepage": "https://www.nexusmods.com/starfield/mods/1482/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "SFSE",
+                "Core2"
+            ]
+        },
+        "Gameplay - Ships - Power Allocation Fix": {
+            "taggedName": "Gameplay - Ships - Power Allocation Fix [Vanilla]",
+            "officialName": "Ship Power Allocation Fix - Revert Unwanted Power Changes",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6707/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Ships - Seizure Of Ships": {
+            "taggedName": "Gameplay - Ships - Seizure Of Ships [Vanilla]",
+            "officialName": "Seizure Of Ships - Take Over Restricted Ships",
+            "homepage": "https://www.nexusmods.com/starfield/mods/5212/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Ships - Sit to Add Ship to Fleet": {
+            "taggedName": "Gameplay - Ships - Sit to Add Ship to Fleet [Vanilla]",
+            "officialName": "Sit To Add Ship to Fleet",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6493/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Gameplay - Smarter Spacesuit Auto-Hide": {
+            "taggedName": "Gameplay - Smarter Spacesuit Auto-Hide",
+            "officialName": "Smarter Spacesuit Auto-Hide",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8423/",
+            "category": "Gameplay",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "Graphics - Crowd NPC eye Ambient occlusion Fix": {
+            "taggedName": "Graphics - Crowd NPC eye Ambient occlusion Fix [Vanilla]",
+            "officialName": "Crowd NPC eye Ambient occlusion Fix",
+            "homepage": "https://www.nexusmods.com/starfield/mods/2718/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Docking Animation Color Correction LUT": {
+            "taggedName": "Graphics - Docking Animation Color Correction LUT [Vanilla]",
+            "officialName": "DragonFixes - Docking Animation Color Correction",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9720/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Effect Textures Enhanced - EXE": {
+            "taggedName": "Graphics - Effect Textures Enhanced - EXE [Vanilla]",
+            "officialName": "EXE - Effect Textures Enhanced",
+            "homepage": "https://www.nexusmods.com/starfield/mods/340/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Enhanced Color Grading and Black Levels - SGS's LUTs - Strength 50": {
+            "taggedName": "Graphics - Enhanced Color Grading and Black Levels - SGS's LUTs - Strength 50 [Vanilla]",
+            "officialName": "SGS's LUTs - Enhanced Color Grading and Black Levels",
+            "homepage": "https://www.nexusmods.com/starfield/mods/595/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Enhanced Female Skin - Starqueen": {
+            "taggedName": "Graphics - Enhanced Female Skin - Starqueen [Vanilla] [Installer] [Body]",
+            "officialName": "STARQUEEN - Starfield Female Skin Textures",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6293/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla",
+                "Installer",
+                "Body"
+            ]
+        },
+        "Graphics - Female Eyelashes HD": {
+            "taggedName": "Graphics - Female Eyelashes HD [Vanilla] [Body]",
+            "officialName": "Female Eyelashes HD",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9487/",
+            "category": "Visuals",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla",
+                "Body"
+            ]
+        },
+        "Graphics - Furniture Redone - 2K": {
+            "taggedName": "Graphics - Furniture Redone - 2K [Vanilla]",
+            "officialName": "Furniture Redone - MonstrrMagic Texture Series",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7423/",
+            "category": "Visuals",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Hello Kitty Sanitation Robot": {
+            "taggedName": "Graphics - Hello Kitty Sanitation Robot [Vanilla]",
+            "officialName": "Hello Kitty Sanitation Bot",
+            "homepage": "https://www.nexusmods.com/starfield/mods/10458/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - HUD - Show Power Name": {
+            "taggedName": "Graphics - HUD - Show Power Name",
+            "officialName": "Show Power Name on HUD",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8150/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "Graphics - Precious Metal Credsticks": {
+            "taggedName": "Graphics - Precious Metal Credsticks [Vanilla]",
+            "officialName": "Precious Metal Credsticks",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11493/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - SavrenX - Cave and Ice": {
+            "taggedName": "Graphics - SavrenX - Cave and Ice [Vanilla]",
+            "officialName": "SavrenX Cave",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3814/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - SavrenX - Cave Wetness": {
+            "taggedName": "Graphics - SavrenX - Cave Wetness [Vanilla]",
+            "officialName": "SavrenX Cave",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3814/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - SavrenX - Crisp Flora": {
+            "taggedName": "Graphics - SavrenX - Crisp Flora  [Vanilla]",
+            "officialName": "SavrenX Crisp Flora V2.1",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3592/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - SavrenX - Hair 1K": {
+            "taggedName": "Graphics - SavrenX - Hair 1K  [Vanilla]",
+            "officialName": "SavrenX Hair",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3890/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - SavrenX - HD Crowd Optimized": {
+            "taggedName": "Graphics - SavrenX - HD Crowd Optimized  [Vanilla]",
+            "officialName": "SavrenX HD Crowd Optimized V2",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3391/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - SavrenX - Starfield HD NPC": {
+            "taggedName": "Graphics - SavrenX - Starfield HD NPC  [Vanilla]",
+            "officialName": "SavrenX HD NPC Optimized",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3295/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - SavrenX - Stone": {
+            "taggedName": "Graphics - SavrenX - Stone [Vanilla]",
+            "officialName": "SavrenX Stone",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3741/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Sexy Real Magazines": {
+            "taggedName": "Graphics - Sexy Real Magazines [Vanilla]",
+            "officialName": "Sexy Real Magazines",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8100/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Show Location Names": {
+            "taggedName": "Graphics - Show Location Names [Vanilla]",
+            "officialName": "Show Location Names",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8577/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Show Star Names": {
+            "taggedName": "Graphics - Show Star Names [Vanilla] [Installer]",
+            "officialName": "Show Star Names",
+            "homepage": "https://www.nexusmods.com/starfield/mods/5188/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla",
+                "Installer"
+            ]
+        },
+        "Graphics - Starfield HD Reworked Project 1.0": {
+            "taggedName": "Graphics - Starfield HD Reworked Project 1.0 [Vanilla]",
+            "officialName": "Starfield HD Reworked Project",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3486/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - TigerMagazinesVol2": {
+            "taggedName": "Graphics - TigerMagazinesVol2  [Vanilla]",
+            "officialName": "Tiger's Magazines Volume 2",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9527/",
+            "category": "Visuals",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Various Crew": {
+            "taggedName": "Graphics - Various Crew  [Vanilla]",
+            "officialName": "Various Crew",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9528/",
+            "category": "Characters",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Graphics - Various Crew - Amazon Crew": {
+            "taggedName": "Graphics - Various Crew - Amazon Crew  [Vanilla]",
+            "officialName": "Various Crew",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9528/",
+            "category": "Characters",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Patches - Address Library for SFSE Plugins": {
+            "taggedName": "Patches - Address Library for SFSE Plugins [SFSE] [Core]",
+            "officialName": "Address Library for SFSE Plugins",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3256/",
+            "category": "Modders Resources",
+            "endorsed": "Endorsed",
+            "tags": [
+                "SFSE",
+                "Core"
+            ]
+        },
+        "Patches - Baka Achievement Enabler": {
+            "taggedName": "Patches - Baka Achievement Enabler [SFSE]",
+            "officialName": "Baka Achievement Enabler (SFSE)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/658/",
+            "category": "Miscellaneous",
+            "endorsed": "Endorsed",
+            "tags": [
+                "SFSE"
+            ]
+        },
+        "Patches - CharGenMenu": {
+            "taggedName": "Patches - CharGenMenu [SFSE] [Core2]",
+            "officialName": "CharGenMenu",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6850/",
+            "category": "User Interface",
+            "endorsed": "Undecided",
+            "tags": [
+                "SFSE",
+                "Core2"
+            ]
+        },
+        "Patches - Console Output To File": {
+            "taggedName": "Patches - Console Output To File [SFSE]",
+            "officialName": "Console Output To File (SFSE Plugin)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3142/",
+            "category": "Miscellaneous",
+            "endorsed": "Endorsed",
+            "tags": [
+                "SFSE"
+            ]
+        },
+        "Patches - Galactic Mesh Fixes ": {
+            "taggedName": "Patches - Galactic Mesh Fixes ",
+            "officialName": "Galactic Mesh Fixes",
+            "homepage": "https://www.nexusmods.com/starfield/mods/13258/",
+            "category": "Visuals",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "Patches - Starfield Community Patch": {
+            "taggedName": "Patches - Starfield Community Patch [Vanilla]",
+            "officialName": "Starfield Community Patch (SFCP)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/1/",
+            "category": "Gameplay",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Patches - Starfield Script Extender": {
+            "taggedName": "Patches - Starfield Script Extender [SFSE] [Core]",
+            "officialName": "Starfield Script Extender (SFSE)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/106/",
+            "category": "Utilities",
+            "endorsed": "Endorsed",
+            "tags": [
+                "SFSE",
+                "Core"
+            ]
+        },
+        "Patches - Trackers Alliance Fix": {
+            "taggedName": "Patches - Trackers Alliance Fix  [Vanilla]",
+            "officialName": "Trackers Alliance Board Fix",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9620/",
+            "category": "Miscellaneous",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Patches - Unlimited Mannequins": {
+            "taggedName": "Patches - Unlimited Mannequins",
+            "officialName": "Unlimited Mannequins",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6291/",
+            "category": "Settlements",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "Renaming - Marked Landmark Books": {
+            "taggedName": "Renaming - Marked Landmark Books [Vanilla]",
+            "officialName": "Marked Landmark Books",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7936/",
+            "category": "Items",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Renaming - Snow Globes - Eli": {
+            "taggedName": "Renaming - Snow Globes - Eli [Vanilla]",
+            "officialName": "Eli's Renamed Snow Globes - Better Sorting",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9884/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Skins - Constellation LaserCutter - Textures": {
+            "taggedName": "Skins - Constellation LaserCutter - Textures [WSEP]",
+            "officialName": "Constellation Laser Cutter - Texture Archive  (WSEP)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6263/",
+            "category": "Weapons",
+            "endorsed": "Undecided",
+            "tags": [
+                "WSEP"
+            ]
+        },
+        "Skins - Fallout LaserCutter - Textures": {
+            "taggedName": "Skins - Fallout LaserCutter - Textures [WSEP]",
+            "officialName": "Fallout Laser Cutter - Texture Archive (WSEP)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9768/",
+            "category": "Weapons",
+            "endorsed": "Undecided",
+            "tags": [
+                "WSEP"
+            ]
+        },
+        "Skins - Ryujin CombaTech - Textures -": {
+            "taggedName": "Skins - Ryujin CombaTech - Textures - [WSEP]",
+            "officialName": "Ryujin x CombaTech",
+            "homepage": "https://www.nexusmods.com/starfield/mods/920/",
+            "category": "Weapons",
+            "endorsed": "Undecided",
+            "tags": [
+                "WSEP"
+            ]
+        },
+        "Skins - Wasp Unlocked": {
+            "taggedName": "Skins - Wasp Unlocked [WSEP]",
+            "officialName": "Weapon Skin Expansion Project (WSEP) - Wasp",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9801/",
+            "category": "Weapons",
+            "endorsed": "Undecided",
+            "tags": [
+                "WSEP"
+            ]
+        },
+        "UI - Better Ship Part Flips ": {
+            "taggedName": "UI - Better Ship Part Flips ",
+            "officialName": "Better Ship Part Flips",
+            "homepage": "https://www.nexusmods.com/starfield/mods/5953/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "UI - Better Ship Part Snaps": {
+            "taggedName": "UI - Better Ship Part Snaps",
+            "officialName": "Better Ship Part Snaps",
+            "homepage": "https://www.nexusmods.com/starfield/mods/5698/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "UI - Ship Builder Categories": {
+            "taggedName": "UI - Ship Builder Categories",
+            "officialName": "Ship Builder Categories",
+            "homepage": "https://www.nexusmods.com/starfield/mods/7310/",
+            "category": "Ships",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "UI - StarUI Configurator": {
+            "taggedName": "UI - StarUI Configurator",
+            "officialName": "StarUI Configurator",
+            "homepage": "https://www.nexusmods.com/starfield/mods/5467/",
+            "category": "Utilities",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "UI - StarUI HUD": {
+            "taggedName": "UI - StarUI HUD",
+            "officialName": "StarUI HUD",
+            "homepage": "https://www.nexusmods.com/starfield/mods/3444/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "UI - StarUI Inventory": {
+            "taggedName": "UI - StarUI Inventory",
+            "officialName": "StarUI Inventory",
+            "homepage": "https://www.nexusmods.com/starfield/mods/773/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "UI - StarUI Outpost": {
+            "taggedName": "UI - StarUI Outpost [2024-01-17]",
+            "officialName": "StarUI Outpost",
+            "homepage": "https://www.nexusmods.com/starfield/mods/5766/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "UI - StarUI Ship Builder": {
+            "taggedName": "UI - StarUI Ship Builder",
+            "officialName": "StarUI Ship Builder",
+            "homepage": "https://www.nexusmods.com/starfield/mods/6402/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "UI - StarUI Workbench": {
+            "taggedName": "UI - StarUI Workbench",
+            "officialName": "StarUI Workbench",
+            "homepage": "https://www.nexusmods.com/starfield/mods/4966/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": []
+        },
+        "YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)": {
+            "taggedName": "YY - Apparel - Concept Art Sarah Outfit [Vanilla] (Check why there is clipping)",
+            "officialName": "Concept Art Sarah Outfit - IDIMW",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9597/",
+            "category": "Clothing",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "YY - Graphics - HUD - Enhanced Player Boostbar (Does not do much)": {
+            "taggedName": "YY - Graphics - HUD - Enhanced Player Boostbar [Vanilla] (Does not do much)",
+            "officialName": "Enhanced Player Boostbar",
+            "homepage": "https://www.nexusmods.com/starfield/mods/537/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "YY - Patches - Baka Quick Full Saves (Takes too much disk space)": {
+            "taggedName": "YY - Patches - Baka Quick Full Saves [SFSE] (Takes too much disk space)",
+            "officialName": "Baka Quick Full Saves",
+            "homepage": "https://www.nexusmods.com/starfield/mods/1750/",
+            "category": "Miscellaneous",
+            "endorsed": "Endorsed",
+            "tags": [
+                "SFSE"
+            ]
+        },
+        "YY - Patches - Real Time Form Patcher": {
+            "taggedName": "YY - Patches - Real Time Form Patcher [RTFP] [WaitForUpdate]",
+            "officialName": "Real Time Form Patcher (SFSE)",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8324/",
+            "category": "Utilities",
+            "endorsed": "Undecided",
+            "tags": [
+                "RTFP",
+                "WaitForUpdate"
+            ]
+        },
+        "YY - Renaming - Clutter Description Overhaul - CDO (Needs RTFP update)": {
+            "taggedName": "YY - Renaming - Clutter Description Overhaul - CDO [RTFP] (Needs RTFP update)",
+            "officialName": "CDO - Clutter Description Overhaul",
+            "homepage": "https://www.nexusmods.com/starfield/mods/8676/",
+            "category": "User Interface",
+            "endorsed": "Undecided",
+            "tags": [
+                "RTFP"
+            ]
+        },
+        "YY UI - Longer Ship Name (Deprecated in SFSE)": {
+            "taggedName": "YY UI - Longer Ship Name [SFSE] [NEW] (Deprecated in SFSE)",
+            "officialName": "Longer Ship Outpost and Item Names",
+            "homepage": "https://www.nexusmods.com/starfield/mods/1635/",
+            "category": "Utilities",
+            "endorsed": "Undecided",
+            "tags": [
+                "SFSE",
+                "NEW"
+            ]
+        },
+        "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )": {
+            "taggedName": "ZZ - Gameplay - Ships - Weightless Structural Parts [Vanilla] (Superseded by [TNSAIO]) [Unused]",
+            "officialName": "Weightless Structural Parts",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9751/",
+            "category": "Ships",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla",
+                "TNSAIO",
+                "Unused"
+            ]
+        }
+    }
+}
