@@ -85,3 +85,4 @@
 *stroudpremiumedition.esm
 *tnshipmodsallinone.esm
 *tn_aio_falklandsystems.esm
+*sp2_craftableprimersanddiodes.esm
