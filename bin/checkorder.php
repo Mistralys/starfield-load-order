@@ -13,16 +13,30 @@ $targetFile = FileInfo::factory(__DIR__.'/../Plugins.txt');
 $referenceLines = filterLines($referenceFile);
 $targetLines = filterLines($targetFile);
 
-// sort target lines in order to keep all lines from the reference file at the top
-usort($targetLines, function($a, $b) use ($referenceLines) {
-    $indexA = array_search($a, $referenceLines, true);
-    $indexB = array_search($b, $referenceLines, true);
-    $indexA = $indexA === false ? PHP_INT_MAX : $indexA;
-    $indexB = $indexB === false ? PHP_INT_MAX : $indexB;
-    return $indexA <=> $indexB;
-});
+echo 'Sorting '.$targetFile->getName()." according to ".$referenceFile->getName()."\n";
 
-$targetFile->putContents(implode("\r\n", $targetLines)."\r\n");
+// sort target lines in order to keep the reference lines in the exact same order,
+// appending all new lines at the end of the file.
+$sortedTargetLines = [];
+foreach ($referenceLines as $refLine) {
+    foreach ($targetLines as $key => $targetLine) {
+        if ($refLine === $targetLine) {
+            $sortedTargetLines[] = $targetLine;
+            unset($targetLines[$key]);
+            break;
+        }
+    }
+}
+
+// append all remaining target lines that were not in the reference file
+if (count($targetLines) > 0) {
+    echo 'Appending '.count($targetLines)." new lines at the end of the file.\n";
+    array_push($sortedTargetLines, ...$targetLines);
+}
+
+$targetFile->putContents(implode("\r\n", $sortedTargetLines)."\r\n");
+
+echo 'Done.'."\n";
 
 function filterLines(FileInfo $file) : array
 {
