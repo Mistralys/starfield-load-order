@@ -86,3 +86,5 @@
 *tnshipmodsallinone.esm
 *tn_aio_falklandsystems.esm
 *sp2_craftableprimersanddiodes.esm
+*dwn_simpledigipickcrafting.esm
+*more brewable teas and coffees.esm
