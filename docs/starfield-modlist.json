@@ -1,7 +1,7 @@
 {
     "game": "starfield",
-    "databaseDate": "2025-12-10T21:01:03.000000 UTC",
-    "exportDate": "2025-12-10T21:01:44.932248 UTC",
+    "databaseDate": "2025-12-10T21:22:03.000000 UTC",
+    "exportDate": "2025-12-10T21:22:10.106770 UTC",
     "categories": {
         "Characters": [
             "Graphics - Various Crew",
@@ -27,9 +27,11 @@
             "Apparel - ZoNE79 ClothingPack - Standalone (Vanilla)",
             "YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)"
         ],
+        "Environment": [
+            "World Building - Gagarin - New Dawn",
+            "World Building - Heart of Cydonia"
+        ],
         "Gameplay": [
-            "Building - Outposts - Shipbuilder Unlocked",
-            "Crafting - Armor and Clothing Crafting",
             "Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction",
             "Gameplay - Choose your companion",
             "Gameplay - Easy Digipick",
@@ -49,30 +51,32 @@
             "Gameplay - Ships - Power Allocation Fix",
             "Gameplay - Ships - Seizure Of Ships",
             "Gameplay - Ships - Sit to Add Ship to Fleet",
-            "Gameplay - Smarter Spacesuit Auto-Hide",
-            "Patches - Starfield Community Patch"
+            "Gameplay - Smarter Spacesuit Auto-Hide"
         ],
         "Items": [
+            "Crafting - Armor and Clothing Crafting",
             "Crafting - Capital Planet Desktop Globes",
             "Crafting - Galactic Junk Recycler (Creation variant does not work)",
             "Crafting - Grogu Plushie",
+            "Crafting - More Brewable Teas and Coffees",
+            "Crafting - Primers And Diodes",
+            "Crafting - Simple Digipick Crafting",
             "Renaming - Marked Landmark Books"
         ],
         "Miscellaneous": [
-            "Patches - Baka Achievement Enabler",
-            "Patches - Console Output To File",
-            "Patches - Trackers Alliance Fix",
             "YY - Patches - Baka Quick Full Saves (Takes too much disk space)"
         ],
         "Modders Resources": [
             "Patches - Address Library for SFSE Plugins"
         ],
         "Settlements": [
-            "Buiding - Better Living - More buildable decorations",
             "Building - Better Buildable Walls and Doors with Filler Lights",
+            "Building - Better Living - More buildable decorations",
+            "Building - Fish Tank Outpost Decoration",
             "Building - More Buildable Mission Boards",
             "Building - Outposts - Build Area x2",
             "Building - Outposts - Pegasus Botanics and Utilities",
+            "Building - Outposts - Shipbuilder Unlocked",
             "Building - Showers",
             "Building - Vending Machines",
             "Patches - Unlimited Mannequins"
@@ -90,15 +94,14 @@
             "Gameplay - Ships - Landing Bay Cargo Access",
             "UI - Better Ship Part Flips ",
             "UI - Better Ship Part Snaps",
-            "UI - Ship Builder Categories",
-            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)"
+            "UI - Ship Builder Categories"
         ],
         "User Interface": [
             "Graphics - HUD - Show Power Name",
             "Graphics - Show Location Names",
             "Graphics - Show Star Names",
-            "Patches - CharGenMenu",
             "Renaming - Snow Globes - Eli",
+            "UI - Day Length Messages",
             "UI - StarUI HUD",
             "UI - StarUI Inventory",
             "UI - StarUI Outpost",
@@ -108,7 +111,12 @@
             "YY - Renaming - Clutter Description Overhaul - CDO (Needs RTFP update)"
         ],
         "Utilities": [
+            "Patches - Baka Achievement Enabler",
+            "Patches - CharGenMenu",
+            "Patches - Console Output To File",
+            "Patches - Starfield Community Patch",
             "Patches - Starfield Script Extender",
+            "Patches - Trackers Alliance Fix",
             "UI - StarUI Configurator",
             "YY - Patches - Real Time Form Patcher",
             "YY UI - Longer Ship Name (Deprecated in SFSE)"
@@ -138,9 +146,12 @@
         ],
         "Weapons": [
             "Skins - Constellation LaserCutter - Textures",
+            "Skins - Constellation LaserCutter Immersive",
             "Skins - Fallout LaserCutter - Textures",
             "Skins - Ryujin CombaTech - Textures -",
-            "Skins - Wasp Unlocked"
+            "Skins - Ryujn CombaTech Immersive",
+            "Skins - Wasp Unlocked",
+            "Skins - Weapon Skin Expansion"
         ]
     },
     "tags": {
@@ -235,9 +246,6 @@
             "Building - Ships - TN's Mods - Falkland Systems Patch",
             "Building - Ships - TN's Mods - Stroud Patch"
         ],
-        "Unused": [
-            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)"
-        ],
         "Vanilla": [
             "Apparel - Buy Swimsuits",
             "Apparel - Eit Clothiers Plus (Vanilla body)",
@@ -249,8 +257,8 @@
             "Apparel - Nanosuit - Female - White Recolor",
             "Apparel - Ombre Hair Colours",
             "Apparel - ZoNE79 ClothingPack - Standalone (Vanilla)",
-            "Buiding - Better Living - More buildable decorations",
             "Building - Better Buildable Walls and Doors with Filler Lights",
+            "Building - Better Living - More buildable decorations",
             "Building - Fish Tank Outpost Decoration",
             "Building - More Buildable Mission Boards",
             "Building - Outposts - Build Area x2",
@@ -305,8 +313,7 @@
             "Renaming - Marked Landmark Books",
             "Renaming - Snow Globes - Eli",
             "YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)",
-            "YY - Graphics - HUD - Enhanced Player Boostbar (Does not do much)",
-            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)"
+            "YY - Graphics - HUD - Enhanced Player Boostbar (Does not do much)"
         ],
         "WaitForUpdate": [
             "YY - Patches - Real Time Form Patcher"
@@ -496,8 +503,18 @@
                 "Vanilla"
             ]
         },
-        "Buiding - Better Living - More buildable decorations": {
-            "taggedName": "Buiding - Better Living - More buildable decorations [Vanilla]",
+        "Building - Better Buildable Walls and Doors with Filler Lights": {
+            "taggedName": "Building - Better Buildable Walls and Doors with Filler Lights [Vanilla]",
+            "officialName": "Better Buildable Walls and Doors",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11100/",
+            "category": "Settlements",
+            "endorsed": "Endorsed",
+            "tags": [
+                "Vanilla"
+            ]
+        },
+        "Building - Better Living - More buildable decorations": {
+            "taggedName": "Building - Better Living - More buildable decorations [Vanilla]",
             "officialName": "Better Living - Outpost Decor",
             "homepage": "https://www.nexusmods.com/starfield/mods/10290/",
             "category": "Settlements",
@@ -506,10 +523,10 @@
                 "Vanilla"
             ]
         },
-        "Building - Better Buildable Walls and Doors with Filler Lights": {
-            "taggedName": "Building - Better Buildable Walls and Doors with Filler Lights [Vanilla]",
-            "officialName": "Better Buildable Walls and Doors",
-            "homepage": "https://www.nexusmods.com/starfield/mods/11100/",
+        "Building - Fish Tank Outpost Decoration": {
+            "taggedName": "Building - Fish Tank Outpost Decoration [Vanilla]",
+            "officialName": "Aquarium Outpost Decoration",
+            "homepage": "https://www.nexusmods.com/starfield/mods/10877/",
             "category": "Settlements",
             "endorsed": "Endorsed",
             "tags": [
@@ -551,7 +568,7 @@
             "taggedName": "Building - Outposts - Shipbuilder Unlocked [SFSE] [NEW]",
             "officialName": "Outpost Shipbuilder Unlocked ESM",
             "homepage": "https://www.nexusmods.com/starfield/mods/5667/",
-            "category": "Gameplay",
+            "category": "Settlements",
             "endorsed": "Undecided",
             "tags": [
                 "SFSE",
@@ -669,7 +686,7 @@
             "taggedName": "Crafting - Armor and Clothing Crafting [Vanilla]",
             "officialName": "Starfield Extended - Armor and Clothing Crafting",
             "homepage": "https://www.nexusmods.com/starfield/mods/5657/",
-            "category": "Gameplay",
+            "category": "Items",
             "endorsed": "Undecided",
             "tags": [
                 "Vanilla"
@@ -703,6 +720,38 @@
             "tags": [
                 "Vanilla",
                 "ItemCodes"
+            ]
+        },
+        "Crafting - More Brewable Teas and Coffees": {
+            "taggedName": "Crafting - More Brewable Teas and Coffees [Vanilla] [NEW]",
+            "officialName": "More Brewable Teas and Coffees",
+            "homepage": "https://www.nexusmods.com/starfield/mods/11565/",
+            "category": "Items",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla",
+                "NEW"
+            ]
+        },
+        "Crafting - Primers And Diodes": {
+            "taggedName": "Crafting - Primers And Diodes [Vanilla] [NEW]",
+            "officialName": "Craftable Primers And Diodes",
+            "homepage": "https://www.nexusmods.com/starfield/mods/13221/",
+            "category": "Items",
+            "endorsed": "Undecided",
+            "tags": [
+                "Vanilla",
+                "NEW"
+            ]
+        },
+        "Crafting - Simple Digipick Crafting": {
+            "taggedName": "Crafting - Simple Digipick Crafting [NEW]",
+            "officialName": "Simple Digipick Crafting",
+            "homepage": "https://www.nexusmods.com/starfield/mods/13787/",
+            "category": "Items",
+            "endorsed": "Undecided",
+            "tags": [
+                "NEW"
             ]
         },
         "Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction": {
@@ -1190,7 +1239,7 @@
             "taggedName": "Patches - Baka Achievement Enabler [SFSE]",
             "officialName": "Baka Achievement Enabler (SFSE)",
             "homepage": "https://www.nexusmods.com/starfield/mods/658/",
-            "category": "Miscellaneous",
+            "category": "Utilities",
             "endorsed": "Endorsed",
             "tags": [
                 "SFSE"
@@ -1200,7 +1249,7 @@
             "taggedName": "Patches - CharGenMenu [SFSE] [Core2]",
             "officialName": "CharGenMenu",
             "homepage": "https://www.nexusmods.com/starfield/mods/6850/",
-            "category": "User Interface",
+            "category": "Utilities",
             "endorsed": "Undecided",
             "tags": [
                 "SFSE",
@@ -1211,7 +1260,7 @@
             "taggedName": "Patches - Console Output To File [SFSE]",
             "officialName": "Console Output To File (SFSE Plugin)",
             "homepage": "https://www.nexusmods.com/starfield/mods/3142/",
-            "category": "Miscellaneous",
+            "category": "Utilities",
             "endorsed": "Endorsed",
             "tags": [
                 "SFSE"
@@ -1229,7 +1278,7 @@
             "taggedName": "Patches - Starfield Community Patch [Vanilla]",
             "officialName": "Starfield Community Patch (SFCP)",
             "homepage": "https://www.nexusmods.com/starfield/mods/1/",
-            "category": "Gameplay",
+            "category": "Utilities",
             "endorsed": "Endorsed",
             "tags": [
                 "Vanilla"
@@ -1250,7 +1299,7 @@
             "taggedName": "Patches - Trackers Alliance Fix  [Vanilla]",
             "officialName": "Trackers Alliance Board Fix",
             "homepage": "https://www.nexusmods.com/starfield/mods/9620/",
-            "category": "Miscellaneous",
+            "category": "Utilities",
             "endorsed": "Endorsed",
             "tags": [
                 "Vanilla"
@@ -1294,6 +1343,16 @@
                 "WSEP"
             ]
         },
+        "Skins - Constellation LaserCutter Immersive": {
+            "taggedName": "Skins - Constellation LaserCutter Immersive [WSEP]",
+            "officialName": "Weapon Skin Expansion Project (WSEP) - Constellation Laser Cutters",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9760/",
+            "category": "Weapons",
+            "endorsed": "Undecided",
+            "tags": [
+                "WSEP"
+            ]
+        },
         "Skins - Fallout LaserCutter - Textures": {
             "taggedName": "Skins - Fallout LaserCutter - Textures [WSEP]",
             "officialName": "Fallout Laser Cutter - Texture Archive (WSEP)",
@@ -1314,10 +1373,30 @@
                 "WSEP"
             ]
         },
+        "Skins - Ryujn CombaTech Immersive": {
+            "taggedName": "Skins - Ryujn CombaTech Immersive [WSEP]",
+            "officialName": "Weapon Skin Expansion Project (WSEP) - Ryujin",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9570/",
+            "category": "Weapons",
+            "endorsed": "Undecided",
+            "tags": [
+                "WSEP"
+            ]
+        },
         "Skins - Wasp Unlocked": {
             "taggedName": "Skins - Wasp Unlocked [WSEP]",
             "officialName": "Weapon Skin Expansion Project (WSEP) - Wasp",
             "homepage": "https://www.nexusmods.com/starfield/mods/9801/",
+            "category": "Weapons",
+            "endorsed": "Undecided",
+            "tags": [
+                "WSEP"
+            ]
+        },
+        "Skins - Weapon Skin Expansion": {
+            "taggedName": "Skins - Weapon Skin Expansion [WSEP]",
+            "officialName": "Weapon Skin Expansion Project (WSEP) - Fallout Laser Cutters",
+            "homepage": "https://www.nexusmods.com/starfield/mods/9764/",
             "category": "Weapons",
             "endorsed": "Undecided",
             "tags": [
@@ -1338,6 +1417,14 @@
             "homepage": "https://www.nexusmods.com/starfield/mods/5698/",
             "category": "Ships",
             "endorsed": "Undecided",
+            "tags": []
+        },
+        "UI - Day Length Messages": {
+            "taggedName": "UI - Day Length Messages",
+            "officialName": "",
+            "homepage": "https://www.nexusmods.com/starfield/mods/15286/",
+            "category": "User Interface",
+            "endorsed": "Endorsed",
             "tags": []
         },
         "UI - Ship Builder Categories": {
@@ -1394,6 +1481,22 @@
             "homepage": "https://www.nexusmods.com/starfield/mods/4966/",
             "category": "User Interface",
             "endorsed": "Endorsed",
+            "tags": []
+        },
+        "World Building - Gagarin - New Dawn": {
+            "taggedName": "World Building - Gagarin - New Dawn",
+            "officialName": "Gagarin - New Dawn",
+            "homepage": "https://www.nexusmods.com/starfield/mods/14694/",
+            "category": "Environment",
+            "endorsed": "Undecided",
+            "tags": []
+        },
+        "World Building - Heart of Cydonia": {
+            "taggedName": "World Building - Heart of Cydonia",
+            "officialName": "Heart of Cydonia",
+            "homepage": "https://www.nexusmods.com/starfield/mods/14351/",
+            "category": "Environment",
+            "endorsed": "Undecided",
             "tags": []
         },
         "YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)": {
@@ -1455,17 +1558,6 @@
             "endorsed": "Undecided",
             "tags": [
                 "SFSE"
-            ]
-        },
-        "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)": {
-            "taggedName": "ZZ - Gameplay - Ships - Weightless Structural Parts [Vanilla] (Superseded by TNSAIO) [Unused]",
-            "officialName": "Weightless Structural Parts",
-            "homepage": "https://www.nexusmods.com/starfield/mods/9751/",
-            "category": "Ships",
-            "endorsed": "Undecided",
-            "tags": [
-                "Vanilla",
-                "Unused"
             ]
         }
     }

@@ -3,8 +3,8 @@
 These are all mods used in Vortex for Starfield,
 according to the mods used in a local Vortex database backup.
 
-Generation time: 2025-12-10 21:01:44  
-Vortex database update time: 2025-12-10 21:01:03
+Generation time: 2025-12-10 21:22:10  
+Vortex database update time: 2025-12-10 21:22:03
 
 ## Overview
 
@@ -34,10 +34,13 @@ Vortex database update time: 2025-12-10 21:01:03
 - [Apparel - ZoNE79 ClothingPack - Standalone (Vanilla)](#apparel---zone79-clothingpack---standalone-vanilla)
 - [YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)](#yy---apparel---concept-art-sarah-outfit-check-why-there-is-clipping)
 
+### Environment
+
+- [World Building - Gagarin - New Dawn](#world-building---gagarin---new-dawn)
+- [World Building - Heart of Cydonia](#world-building---heart-of-cydonia)
+
 ### Gameplay
 
-- [Building - Outposts - Shipbuilder Unlocked](#building---outposts---shipbuilder-unlocked)
-- [Crafting - Armor and Clothing Crafting](#crafting---armor-and-clothing-crafting)
 - [Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction](#gameplay---better-sprint-costs---75-percent-oxygen-cost-reduction)
 - [Gameplay - Choose your companion](#gameplay---choose-your-companion)
 - [Gameplay - Easy Digipick](#gameplay---easy-digipick)
@@ -58,20 +61,20 @@ Vortex database update time: 2025-12-10 21:01:03
 - [Gameplay - Ships - Seizure Of Ships](#gameplay---ships---seizure-of-ships)
 - [Gameplay - Ships - Sit to Add Ship to Fleet](#gameplay---ships---sit-to-add-ship-to-fleet)
 - [Gameplay - Smarter Spacesuit Auto-Hide](#gameplay---smarter-spacesuit-auto-hide)
-- [Patches - Starfield Community Patch](#patches---starfield-community-patch)
 
 ### Items
 
+- [Crafting - Armor and Clothing Crafting](#crafting---armor-and-clothing-crafting)
 - [Crafting - Capital Planet Desktop Globes](#crafting---capital-planet-desktop-globes)
 - [Crafting - Galactic Junk Recycler (Creation variant does not work)](#crafting---galactic-junk-recycler-creation-variant-does-not-work)
 - [Crafting - Grogu Plushie](#crafting---grogu-plushie)
+- [Crafting - More Brewable Teas and Coffees](#crafting---more-brewable-teas-and-coffees)
+- [Crafting - Primers And Diodes](#crafting---primers-and-diodes)
+- [Crafting - Simple Digipick Crafting](#crafting---simple-digipick-crafting)
 - [Renaming - Marked Landmark Books](#renaming---marked-landmark-books)
 
 ### Miscellaneous
 
-- [Patches - Baka Achievement Enabler](#patches---baka-achievement-enabler)
-- [Patches - Console Output To File](#patches---console-output-to-file)
-- [Patches - Trackers Alliance Fix](#patches---trackers-alliance-fix)
 - [YY - Patches - Baka Quick Full Saves (Takes too much disk space)](#yy---patches---baka-quick-full-saves-takes-too-much-disk-space)
 
 ### Modders Resources
@@ -80,11 +83,13 @@ Vortex database update time: 2025-12-10 21:01:03
 
 ### Settlements
 
-- [Buiding - Better Living - More buildable decorations](#buiding---better-living---more-buildable-decorations)
 - [Building - Better Buildable Walls and Doors with Filler Lights](#building---better-buildable-walls-and-doors-with-filler-lights)
+- [Building - Better Living - More buildable decorations](#building---better-living---more-buildable-decorations)
+- [Building - Fish Tank Outpost Decoration](#building---fish-tank-outpost-decoration)
 - [Building - More Buildable Mission Boards](#building---more-buildable-mission-boards)
 - [Building - Outposts - Build Area x2](#building---outposts---build-area-x2)
 - [Building - Outposts - Pegasus Botanics and Utilities](#building---outposts---pegasus-botanics-and-utilities)
+- [Building - Outposts - Shipbuilder Unlocked](#building---outposts---shipbuilder-unlocked)
 - [Building - Showers](#building---showers)
 - [Building - Vending Machines](#building---vending-machines)
 - [Patches - Unlimited Mannequins](#patches---unlimited-mannequins)
@@ -104,15 +109,14 @@ Vortex database update time: 2025-12-10 21:01:03
 - [UI - Better Ship Part Flips ](#ui---better-ship-part-flips-)
 - [UI - Better Ship Part Snaps](#ui---better-ship-part-snaps)
 - [UI - Ship Builder Categories](#ui---ship-builder-categories)
-- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)](#zz---gameplay---ships---weightless-structural-parts-superseded-by-tnsaio)
 
 ### User Interface
 
 - [Graphics - HUD - Show Power Name](#graphics---hud---show-power-name)
 - [Graphics - Show Location Names](#graphics---show-location-names)
 - [Graphics - Show Star Names](#graphics---show-star-names)
-- [Patches - CharGenMenu](#patches---chargenmenu)
 - [Renaming - Snow Globes - Eli](#renaming---snow-globes---eli)
+- [UI - Day Length Messages](#ui---day-length-messages)
 - [UI - StarUI HUD](#ui---starui-hud)
 - [UI - StarUI Inventory](#ui---starui-inventory)
 - [UI - StarUI Outpost](#ui---starui-outpost)
@@ -123,7 +127,12 @@ Vortex database update time: 2025-12-10 21:01:03
 
 ### Utilities
 
+- [Patches - Baka Achievement Enabler](#patches---baka-achievement-enabler)
+- [Patches - CharGenMenu](#patches---chargenmenu)
+- [Patches - Console Output To File](#patches---console-output-to-file)
+- [Patches - Starfield Community Patch](#patches---starfield-community-patch)
 - [Patches - Starfield Script Extender](#patches---starfield-script-extender)
+- [Patches - Trackers Alliance Fix](#patches---trackers-alliance-fix)
 - [UI - StarUI Configurator](#ui---starui-configurator)
 - [YY - Patches - Real Time Form Patcher](#yy---patches---real-time-form-patcher)
 - [YY UI - Longer Ship Name (Deprecated in SFSE)](#yy-ui---longer-ship-name-deprecated-in-sfse)
@@ -155,9 +164,12 @@ Vortex database update time: 2025-12-10 21:01:03
 ### Weapons
 
 - [Skins - Constellation LaserCutter - Textures](#skins---constellation-lasercutter---textures)
+- [Skins - Constellation LaserCutter Immersive](#skins---constellation-lasercutter-immersive)
 - [Skins - Fallout LaserCutter - Textures](#skins---fallout-lasercutter---textures)
 - [Skins - Ryujin CombaTech - Textures -](#skins---ryujin-combatech---textures--)
+- [Skins - Ryujn CombaTech Immersive](#skins---ryujn-combatech-immersive)
 - [Skins - Wasp Unlocked](#skins---wasp-unlocked)
+- [Skins - Weapon Skin Expansion](#skins---weapon-skin-expansion)
 
 
 ## Mod details
@@ -262,16 +274,22 @@ Category: Clothing
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/11255/)  
 Tags: `Vanilla`
 
-### Buiding - Better Living - More buildable decorations
+### Building - Better Buildable Walls and Doors with Filler Lights
+
+Category: Settlements  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/11100/)  
+Tags: `Vanilla`
+
+### Building - Better Living - More buildable decorations
 
 Category: Settlements  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/10290/)  
 Tags: `Vanilla`
 
-### Building - Better Buildable Walls and Doors with Filler Lights
+### Building - Fish Tank Outpost Decoration
 
 Category: Settlements  
-Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/11100/)  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/10877/)  
 Tags: `Vanilla`
 
 ### Building - More Buildable Mission Boards
@@ -294,7 +312,7 @@ Tags: `NEW`
 
 ### Building - Outposts - Shipbuilder Unlocked
 
-Category: Gameplay  
+Category: Settlements  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/5667/)  
 Tags: `NEW`, `SFSE`
 
@@ -360,7 +378,7 @@ Tags: `Vanilla`
 
 ### Crafting - Armor and Clothing Crafting
 
-Category: Gameplay  
+Category: Items  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/5657/)  
 Tags: `Vanilla`
 
@@ -380,6 +398,24 @@ Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/11101/)
 Category: Items  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/10031/)  
 Tags: `ItemCodes`, `Vanilla`
+
+### Crafting - More Brewable Teas and Coffees
+
+Category: Items  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/11565/)  
+Tags: `NEW`, `Vanilla`
+
+### Crafting - Primers And Diodes
+
+Category: Items  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/13221/)  
+Tags: `NEW`, `Vanilla`
+
+### Crafting - Simple Digipick Crafting
+
+Category: Items  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/13787/)  
+Tags: `NEW`
 
 ### Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction
 
@@ -666,19 +702,19 @@ Tags: `Core`, `SFSE`
 
 ### Patches - Baka Achievement Enabler
 
-Category: Miscellaneous  
+Category: Utilities  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/658/)  
 Tags: `SFSE`
 
 ### Patches - CharGenMenu
 
-Category: User Interface  
+Category: Utilities  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/6850/)  
 Tags: `Core2`, `SFSE`
 
 ### Patches - Console Output To File
 
-Category: Miscellaneous  
+Category: Utilities  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/3142/)  
 Tags: `SFSE`
 
@@ -689,7 +725,7 @@ Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/13258/)
 
 ### Patches - Starfield Community Patch
 
-Category: Gameplay  
+Category: Utilities  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/1/)  
 Tags: `Vanilla`
 
@@ -701,7 +737,7 @@ Tags: `Core`, `SFSE`
 
 ### Patches - Trackers Alliance Fix
 
-Category: Miscellaneous  
+Category: Utilities  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/9620/)  
 Tags: `Vanilla`
 
@@ -728,6 +764,12 @@ Category: Weapons
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/6263/)  
 Tags: `WSEP`
 
+### Skins - Constellation LaserCutter Immersive
+
+Category: Weapons  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/9760/)  
+Tags: `WSEP`
+
 ### Skins - Fallout LaserCutter - Textures
 
 Category: Weapons  
@@ -740,10 +782,22 @@ Category: Weapons
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/920/)  
 Tags: `WSEP`
 
+### Skins - Ryujn CombaTech Immersive
+
+Category: Weapons  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/9570/)  
+Tags: `WSEP`
+
 ### Skins - Wasp Unlocked
 
 Category: Weapons  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/9801/)  
+Tags: `WSEP`
+
+### Skins - Weapon Skin Expansion
+
+Category: Weapons  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/9764/)  
 Tags: `WSEP`
 
 ### UI - Better Ship Part Flips 
@@ -755,6 +809,11 @@ Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/5953/)
 
 Category: Ships  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/5698/)  
+
+### UI - Day Length Messages
+
+Category: User Interface  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/15286/)  
 
 ### UI - Ship Builder Categories
 
@@ -791,6 +850,16 @@ Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/6402/)
 Category: User Interface  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/4966/)  
 
+### World Building - Gagarin - New Dawn
+
+Category: Environment  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/14694/)  
+
+### World Building - Heart of Cydonia
+
+Category: Environment  
+Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/14351/)  
+
 ### YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)
 
 Category: Clothing  
@@ -826,10 +895,4 @@ Tags: `RTFP`
 Category: Utilities  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/1635/)  
 Tags: `SFSE`
-
-### ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)
-
-Category: Ships  
-Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/9751/)  
-Tags: `Unused`, `Vanilla`
 

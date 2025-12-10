@@ -3,8 +3,8 @@
 These are all tags used to describe mods in Vortex for Starfield,
 according to the mods used in a local Vortex database backup.
 
-Generation time: 2025-12-10 21:01:44  
-Vortex database update time: 2025-12-10 21:01:03
+Generation time: 2025-12-10 21:22:10  
+Vortex database update time: 2025-12-10 21:22:03
 
 - [BAT](#bat---batch-commands)
 - [Body](#body)
@@ -91,9 +91,9 @@ Mod that has been recently added, and that has not been fully tested yet.
 - [Building - Ships - TN's Mods - Falkland Systems Patch](https://www.nexusmods.com/starfield/mods/6376/)
 - [Building - Ships - TN's Mods - Stroud Patch](https://www.nexusmods.com/starfield/mods/14610/)
 - [Building - Showers](https://www.nexusmods.com/starfield/mods/8140/)
-- Crafting - More Brewable Teas and Coffees | WARNING: mod not found
-- Crafting - Primers And Diodes | WARNING: mod not found
-- Crafting - Simple Digipick Crafting | WARNING: mod not found
+- [Crafting - More Brewable Teas and Coffees](https://www.nexusmods.com/starfield/mods/11565/)
+- [Crafting - Primers And Diodes](https://www.nexusmods.com/starfield/mods/13221/)
+- [Crafting - Simple Digipick Crafting](https://www.nexusmods.com/starfield/mods/13787/)
 - [Gameplay - Ships - Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093/)
 
 ## NPC - For NPCs
@@ -155,13 +155,6 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/starfield
 - [Building - Ships - TN's Mods - Falkland Systems Patch](https://www.nexusmods.com/starfield/mods/6376/)
 - [Building - Ships - TN's Mods - Stroud Patch](https://www.nexusmods.com/starfield/mods/14610/)
 
-## Unused
-
-These mods are unused for a variety of reasons,
-from being broken to not matching expected quality standards.
-
-- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)](https://www.nexusmods.com/starfield/mods/9751/)
-
 ## Vanilla - Vanilla mod
 
 Mod that does not require anything beyond the base game.
@@ -176,9 +169,9 @@ Mod that does not require anything beyond the base game.
 - [Apparel - Nanosuit - Female - White Recolor](https://www.nexusmods.com/starfield/mods/10129/)
 - [Apparel - Ombre Hair Colours](https://www.nexusmods.com/starfield/mods/8786/)
 - [Apparel - ZoNE79 ClothingPack - Standalone (Vanilla)](https://www.nexusmods.com/starfield/mods/11255/)
-- [Buiding - Better Living - More buildable decorations](https://www.nexusmods.com/starfield/mods/10290/)
 - [Building - Better Buildable Walls and Doors with Filler Lights](https://www.nexusmods.com/starfield/mods/11100/)
-- Building - Fish Tank Outpost Decoration | WARNING: mod not found
+- [Building - Better Living - More buildable decorations](https://www.nexusmods.com/starfield/mods/10290/)
+- [Building - Fish Tank Outpost Decoration](https://www.nexusmods.com/starfield/mods/10877/)
 - [Building - More Buildable Mission Boards](https://www.nexusmods.com/starfield/mods/9634/)
 - [Building - Outposts - Build Area x2](https://www.nexusmods.com/starfield/mods/15246/)
 - [Building - Ships - Builder Configurator](https://www.nexusmods.com/starfield/mods/11077/)
@@ -188,8 +181,8 @@ Mod that does not require anything beyond the base game.
 - [Crafting - Armor and Clothing Crafting](https://www.nexusmods.com/starfield/mods/5657/)
 - [Crafting - Capital Planet Desktop Globes](https://www.nexusmods.com/starfield/mods/10134/)
 - [Crafting - Grogu Plushie](https://www.nexusmods.com/starfield/mods/10031/)
-- Crafting - More Brewable Teas and Coffees | WARNING: mod not found
-- Crafting - Primers And Diodes | WARNING: mod not found
+- [Crafting - More Brewable Teas and Coffees](https://www.nexusmods.com/starfield/mods/11565/)
+- [Crafting - Primers And Diodes](https://www.nexusmods.com/starfield/mods/13221/)
 - [Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction](https://www.nexusmods.com/starfield/mods/1234/)
 - [Gameplay - Choose your companion](https://www.nexusmods.com/starfield/mods/7870/)
 - [Gameplay - Easy Digipick](https://www.nexusmods.com/starfield/mods/451/)
@@ -233,7 +226,6 @@ Mod that does not require anything beyond the base game.
 - [Renaming - Snow Globes - Eli](https://www.nexusmods.com/starfield/mods/9884/)
 - [YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)](https://www.nexusmods.com/starfield/mods/9597/)
 - [YY - Graphics - HUD - Enhanced Player Boostbar (Does not do much)](https://www.nexusmods.com/starfield/mods/537/)
-- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)](https://www.nexusmods.com/starfield/mods/9751/)
 
 ## WaitForUpdate
 
@@ -246,10 +238,10 @@ Adds new weapon skins.
 This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/starfield/mods/9764)
 
 - [Skins - Constellation LaserCutter - Textures](https://www.nexusmods.com/starfield/mods/6263/)
-- Skins - Constellation LaserCutter Immersive | WARNING: mod not found
+- [Skins - Constellation LaserCutter Immersive](https://www.nexusmods.com/starfield/mods/9760/)
 - [Skins - Fallout LaserCutter - Textures](https://www.nexusmods.com/starfield/mods/9768/)
 - [Skins - Ryujin CombaTech - Textures -](https://www.nexusmods.com/starfield/mods/920/)
-- Skins - Ryujn CombaTech Immersive | WARNING: mod not found
+- [Skins - Ryujn CombaTech Immersive](https://www.nexusmods.com/starfield/mods/9570/)
 - [Skins - Wasp Unlocked](https://www.nexusmods.com/starfield/mods/9801/)
-- Skins - Weapon Skin Expansion | WARNING: mod not found
+- [Skins - Weapon Skin Expansion](https://www.nexusmods.com/starfield/mods/9764/)
 
