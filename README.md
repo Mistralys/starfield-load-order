@@ -14,6 +14,8 @@ made to the file and choose what to do with them comfortably from [GitHub Deskto
 
 ## Mod List
 
+[View the full mod list](/docs/starfield-mods.md)
+
 Details on the mods and the Vortex mod list can be found under [docs](/docs). These are generated
 automatically using my [Vortext Modlist Exporter](https://github.com/Mistralys/vortex-modlist-exporter)
 tool.
