@@ -1,7 +1,7 @@
 {
     "game": "starfield",
-    "databaseDate": "2025-12-07T12:12:33.000000 UTC",
-    "exportDate": "2025-12-07T12:12:41.932590 UTC",
+    "databaseDate": "2025-12-10T21:01:03.000000 UTC",
+    "exportDate": "2025-12-10T21:01:44.932248 UTC",
     "categories": {
         "Characters": [
             "Graphics - Various Crew",
@@ -91,7 +91,7 @@
             "UI - Better Ship Part Flips ",
             "UI - Better Ship Part Snaps",
             "UI - Ship Builder Categories",
-            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )"
+            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)"
         ],
         "User Interface": [
             "Graphics - HUD - Show Power Name",
@@ -179,7 +179,6 @@
             "Building - Outposts - Build Area x2",
             "Building - Outposts - Pegasus Botanics and Utilities",
             "Building - Outposts - Shipbuilder Unlocked",
-            "Building - Ships - Builder Configurator",
             "Building - Ships - Builder Configurator - Falkland Patch",
             "Building - Ships - Builder Configurator - Shattered Space Patch",
             "Building - Ships - Stroud Premium Edition",
@@ -187,8 +186,10 @@
             "Building - Ships - TN's Mods - Falkland Systems Patch",
             "Building - Ships - TN's Mods - Stroud Patch",
             "Building - Showers",
-            "Gameplay - Ships - Immersive Landing Ramps",
-            "YY UI - Longer Ship Name (Deprecated in SFSE)"
+            "Crafting - More Brewable Teas and Coffees",
+            "Crafting - Primers And Diodes",
+            "Crafting - Simple Digipick Crafting",
+            "Gameplay - Ships - Immersive Landing Ramps"
         ],
         "NPC": [
             "Apparel - KZ Bounty Hunter",
@@ -232,11 +233,10 @@
         "TNSAIO": [
             "Building - Ships - TN's Mods - All In One",
             "Building - Ships - TN's Mods - Falkland Systems Patch",
-            "Building - Ships - TN's Mods - Stroud Patch",
-            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )"
+            "Building - Ships - TN's Mods - Stroud Patch"
         ],
         "Unused": [
-            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )"
+            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)"
         ],
         "Vanilla": [
             "Apparel - Buy Swimsuits",
@@ -261,6 +261,8 @@
             "Crafting - Armor and Clothing Crafting",
             "Crafting - Capital Planet Desktop Globes",
             "Crafting - Grogu Plushie",
+            "Crafting - More Brewable Teas and Coffees",
+            "Crafting - Primers And Diodes",
             "Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction",
             "Gameplay - Choose your companion",
             "Gameplay - Easy Digipick",
@@ -304,7 +306,7 @@
             "Renaming - Snow Globes - Eli",
             "YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)",
             "YY - Graphics - HUD - Enhanced Player Boostbar (Does not do much)",
-            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )"
+            "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)"
         ],
         "WaitForUpdate": [
             "YY - Patches - Real Time Form Patcher"
@@ -557,15 +559,14 @@
             ]
         },
         "Building - Ships - Builder Configurator": {
-            "taggedName": "Building - Ships - Builder Configurator [SBC] [Vanilla] [NEW]",
+            "taggedName": "Building - Ships - Builder Configurator [SBC] [Vanilla] ",
             "officialName": "Ship Builder Configurator",
             "homepage": "https://www.nexusmods.com/starfield/mods/11077/",
             "category": "Ships",
-            "endorsed": "Undecided",
+            "endorsed": "Endorsed",
             "tags": [
                 "SBC",
-                "Vanilla",
-                "NEW"
+                "Vanilla"
             ]
         },
         "Building - Ships - Builder Configurator - Falkland Patch": {
@@ -1447,25 +1448,23 @@
             ]
         },
         "YY UI - Longer Ship Name (Deprecated in SFSE)": {
-            "taggedName": "YY UI - Longer Ship Name [SFSE] [NEW] (Deprecated in SFSE)",
+            "taggedName": "YY UI - Longer Ship Name [SFSE] (Deprecated in SFSE)",
             "officialName": "Longer Ship Outpost and Item Names",
             "homepage": "https://www.nexusmods.com/starfield/mods/1635/",
             "category": "Utilities",
             "endorsed": "Undecided",
             "tags": [
-                "SFSE",
-                "NEW"
+                "SFSE"
             ]
         },
-        "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )": {
-            "taggedName": "ZZ - Gameplay - Ships - Weightless Structural Parts [Vanilla] (Superseded by [TNSAIO]) [Unused]",
+        "ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)": {
+            "taggedName": "ZZ - Gameplay - Ships - Weightless Structural Parts [Vanilla] (Superseded by TNSAIO) [Unused]",
             "officialName": "Weightless Structural Parts",
             "homepage": "https://www.nexusmods.com/starfield/mods/9751/",
             "category": "Ships",
             "endorsed": "Undecided",
             "tags": [
                 "Vanilla",
-                "TNSAIO",
                 "Unused"
             ]
         }

@@ -3,8 +3,8 @@
 These are all mods used in Vortex for Starfield,
 according to the mods used in a local Vortex database backup.
 
-Generation time: 2025-12-07 12:12:41  
-Vortex database update time: 2025-12-07 12:12:33
+Generation time: 2025-12-10 21:01:44  
+Vortex database update time: 2025-12-10 21:01:03
 
 ## Overview
 
@@ -104,7 +104,7 @@ Vortex database update time: 2025-12-07 12:12:33
 - [UI - Better Ship Part Flips ](#ui---better-ship-part-flips-)
 - [UI - Better Ship Part Snaps](#ui---better-ship-part-snaps)
 - [UI - Ship Builder Categories](#ui---ship-builder-categories)
-- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )](#zz---gameplay---ships---weightless-structural-parts-superseded-by-)
+- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)](#zz---gameplay---ships---weightless-structural-parts-superseded-by-tnsaio)
 
 ### User Interface
 
@@ -302,7 +302,7 @@ Tags: `NEW`, `SFSE`
 
 Category: Ships  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/11077/)  
-Tags: `NEW`, `SBC`, `Vanilla`
+Tags: `SBC`, `Vanilla`
 
 ### Building - Ships - Builder Configurator - Falkland Patch
 
@@ -825,11 +825,11 @@ Tags: `RTFP`
 
 Category: Utilities  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/1635/)  
-Tags: `NEW`, `SFSE`
+Tags: `SFSE`
 
-### ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )
+### ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)
 
 Category: Ships  
 Homepage: [www.nexusmods.com](https://www.nexusmods.com/starfield/mods/9751/)  
-Tags: `TNSAIO`, `Unused`, `Vanilla`
+Tags: `Unused`, `Vanilla`
 

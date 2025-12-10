@@ -3,8 +3,8 @@
 These are all tags used to describe mods in Vortex for Starfield,
 according to the mods used in a local Vortex database backup.
 
-Generation time: 2025-12-07 12:12:41  
-Vortex database update time: 2025-12-07 12:12:33
+Generation time: 2025-12-10 21:01:44  
+Vortex database update time: 2025-12-10 21:01:03
 
 - [BAT](#bat---batch-commands)
 - [Body](#body)
@@ -84,7 +84,6 @@ Mod that has been recently added, and that has not been fully tested yet.
 - [Building - Outposts - Build Area x2](https://www.nexusmods.com/starfield/mods/15246/)
 - [Building - Outposts - Pegasus Botanics and Utilities](https://www.nexusmods.com/starfield/mods/14680/)
 - [Building - Outposts - Shipbuilder Unlocked](https://www.nexusmods.com/starfield/mods/5667/)
-- [Building - Ships - Builder Configurator](https://www.nexusmods.com/starfield/mods/11077/)
 - [Building - Ships - Builder Configurator - Falkland Patch](https://www.nexusmods.com/starfield/mods/11077/)
 - [Building - Ships - Builder Configurator - Shattered Space Patch](https://www.nexusmods.com/starfield/mods/11077/)
 - [Building - Ships - Stroud Premium Edition](https://www.nexusmods.com/starfield/mods/12330/)
@@ -92,8 +91,10 @@ Mod that has been recently added, and that has not been fully tested yet.
 - [Building - Ships - TN's Mods - Falkland Systems Patch](https://www.nexusmods.com/starfield/mods/6376/)
 - [Building - Ships - TN's Mods - Stroud Patch](https://www.nexusmods.com/starfield/mods/14610/)
 - [Building - Showers](https://www.nexusmods.com/starfield/mods/8140/)
+- Crafting - More Brewable Teas and Coffees | WARNING: mod not found
+- Crafting - Primers And Diodes | WARNING: mod not found
+- Crafting - Simple Digipick Crafting | WARNING: mod not found
 - [Gameplay - Ships - Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093/)
-- [YY UI - Longer Ship Name (Deprecated in SFSE)](https://www.nexusmods.com/starfield/mods/1635/)
 
 ## NPC - For NPCs
 
@@ -153,14 +154,13 @@ This tag is related to a mod. [Mod homepage](https://www.nexusmods.com/starfield
 - [Building - Ships - TN's Mods - All In One](https://www.nexusmods.com/starfield/mods/6376/)
 - [Building - Ships - TN's Mods - Falkland Systems Patch](https://www.nexusmods.com/starfield/mods/6376/)
 - [Building - Ships - TN's Mods - Stroud Patch](https://www.nexusmods.com/starfield/mods/14610/)
-- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )](https://www.nexusmods.com/starfield/mods/9751/)
 
 ## Unused
 
 These mods are unused for a variety of reasons,
 from being broken to not matching expected quality standards.
 
-- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )](https://www.nexusmods.com/starfield/mods/9751/)
+- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)](https://www.nexusmods.com/starfield/mods/9751/)
 
 ## Vanilla - Vanilla mod
 
@@ -188,6 +188,8 @@ Mod that does not require anything beyond the base game.
 - [Crafting - Armor and Clothing Crafting](https://www.nexusmods.com/starfield/mods/5657/)
 - [Crafting - Capital Planet Desktop Globes](https://www.nexusmods.com/starfield/mods/10134/)
 - [Crafting - Grogu Plushie](https://www.nexusmods.com/starfield/mods/10031/)
+- Crafting - More Brewable Teas and Coffees | WARNING: mod not found
+- Crafting - Primers And Diodes | WARNING: mod not found
 - [Gameplay - Better Sprint Costs - 75 percent oxygen cost reduction](https://www.nexusmods.com/starfield/mods/1234/)
 - [Gameplay - Choose your companion](https://www.nexusmods.com/starfield/mods/7870/)
 - [Gameplay - Easy Digipick](https://www.nexusmods.com/starfield/mods/451/)
@@ -231,7 +233,7 @@ Mod that does not require anything beyond the base game.
 - [Renaming - Snow Globes - Eli](https://www.nexusmods.com/starfield/mods/9884/)
 - [YY - Apparel - Concept Art Sarah Outfit (Check why there is clipping)](https://www.nexusmods.com/starfield/mods/9597/)
 - [YY - Graphics - HUD - Enhanced Player Boostbar (Does not do much)](https://www.nexusmods.com/starfield/mods/537/)
-- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by )](https://www.nexusmods.com/starfield/mods/9751/)
+- [ZZ - Gameplay - Ships - Weightless Structural Parts (Superseded by TNSAIO)](https://www.nexusmods.com/starfield/mods/9751/)
 
 ## WaitForUpdate
 
