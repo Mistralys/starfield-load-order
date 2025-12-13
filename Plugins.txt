@@ -89,3 +89,7 @@
 *dwn_simpledigipickcrafting.esm
 *more brewable teas and coffees.esm
 *visiblecompanionaffinity.esm
+*better crowd citizens.esm
+*betternpcs.esm
+*chameleonimproved.esm
+*nasalandmark.esm
