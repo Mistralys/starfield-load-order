@@ -9,7 +9,7 @@ made to the file and choose what to do with them comfortably from [GitHub Deskto
 
 - Keep mods that add items in the same load order position: The item IDs are directly related
   to the load order. Let's say that you use a mod that adds a new spacesuit, and it is Nr #5
-  in your load order. If you install a mod above it and it is suddenly at Nr #6, the spacesuit
+  in your load order. If you install a mod above it, and it is suddenly at Nr #6, the spacesuit
   will no longer be available. 
 
 ## Mod List
