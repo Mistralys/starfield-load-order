@@ -12,6 +12,17 @@ made to the file and choose what to do with them comfortably from [GitHub Deskto
   in your load order. If you install a mod above it, and it is suddenly at Nr #6, the spacesuit
   will no longer be available. 
 
+## Who modifies it?
+
+- Vortex: When deploying mods, and using the load order screen.
+- Starfield: When reaching the main menu, and when viewing or adding creations.
+
+> Ideally, check for modifications before loading your savegame, and roll them back (Github Desktop 
+> makes this easy). Otherwise, the message saying that the save's load order is 
+> different from the current will be shown.
+
+In my case, Starfield insists on shuffling one some mods around for some reason. 
+
 ## Mod List
 
 [View the full mod list](/docs/starfield-mods.md)
