@@ -11,7 +11,7 @@ use AppUtils\FileHelper\FileInfo;
 
 require_once __DIR__.'/vendor/autoload.php';
 
-$referenceFile = FileInfo::factory(__DIR__.'/../Plugins-regular-stable.txt');
+$referenceFile = FileInfo::factory(__DIR__ . '/../Plugins.reference.txt');
 $targetFile = FileInfo::factory(__DIR__.'/../Plugins.txt');
 
 echo str_repeat('-', 64).PHP_EOL;
