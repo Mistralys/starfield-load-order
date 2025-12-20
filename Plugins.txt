@@ -1,4 +1,4 @@
-﻿*sfta01.esm
+*sfta01.esm
 *sfbgs00c.esm
 *sfbgs00b.esm
 *kgcdoom.esm
