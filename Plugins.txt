@@ -94,3 +94,4 @@
 *ChameleonImproved.esm
 *NASALandmark.esm
 *CPsycheSkillPosters.esm
+*Outpost Ship Signs.esm
