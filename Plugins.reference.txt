@@ -97,3 +97,6 @@
 *Outpost Ship Signs.esm
 *FunctionalDecor.esm
 *JessamineForAll.esm
+*missolambenteb01.esm
+*NewHomesteadEternal.esm
+*tailoredspaces.esm
