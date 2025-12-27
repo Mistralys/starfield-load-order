@@ -95,3 +95,5 @@
 *NASALandmark.esm
 *CPsycheSkillPosters.esm
 *Outpost Ship Signs.esm
+*FunctionalDecor.esm
+*JessamineForAll.esm
